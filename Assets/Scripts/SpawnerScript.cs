@@ -5,6 +5,7 @@ public class SpawnerScript : MonoBehaviour
     [SerializeField] GameObject[] food;
     [SerializeField] GameObject[] enemy;
     [SerializeField] float spawnDeelay = 3f;
+    
 
     
     void Start()
