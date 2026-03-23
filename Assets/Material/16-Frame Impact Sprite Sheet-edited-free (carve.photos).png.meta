@@ -1,0 +1,961 @@
+fileFormatVersion: 2
+guid: 2fb954538f182bd45abf523aff5011a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4030810079451605069
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_0
+  - first:
+      213: -156490074358862059
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_1
+  - first:
+      213: 8402606964489601552
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_2
+  - first:
+      213: -2434273896541220820
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_3
+  - first:
+      213: -7025363725261910909
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_4
+  - first:
+      213: -7939740716872274227
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_5
+  - first:
+      213: 2741715250940702486
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_6
+  - first:
+      213: -7004375224471159742
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_7
+  - first:
+      213: 7425810720116225356
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_8
+  - first:
+      213: -4398032661379869977
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_9
+  - first:
+      213: -8802627789871477787
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_10
+  - first:
+      213: 7182641439091274799
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_11
+  - first:
+      213: -2709017975767584820
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_12
+  - first:
+      213: 6328245188058400643
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_13
+  - first:
+      213: -9041924647879213679
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_14
+  - first:
+      213: -513605016596257681
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_15
+  - first:
+      213: 4460816057330987328
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_16
+  - first:
+      213: 8046014376480211549
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_17
+  - first:
+      213: 4051617070939292706
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_18
+  - first:
+      213: 7674732674430532575
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_19
+  - first:
+      213: 7377394733122466247
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_20
+  - first:
+      213: -9149687777635443403
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_21
+  - first:
+      213: -4910536196188095604
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_22
+  - first:
+      213: 7813933149597735366
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_23
+  - first:
+      213: 7701036015670272550
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_24
+  - first:
+      213: 5606121234762866536
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_25
+  - first:
+      213: 8360903184995315178
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_26
+  - first:
+      213: 6110208341597578545
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_27
+  - first:
+      213: -3955388101459373203
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_28
+  - first:
+      213: -3972089438475932587
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_29
+  - first:
+      213: -7907781083145772020
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_30
+  - first:
+      213: -5588957809198586102
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_31
+  - first:
+      213: 1779678163647482789
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_32
+  - first:
+      213: -3358004082707299325
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_33
+  - first:
+      213: 1556244087660897938
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_34
+  - first:
+      213: -4757161157972779661
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_35
+  - first:
+      213: -1320629542107730708
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_36
+  - first:
+      213: -4159685282773946419
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_37
+  - first:
+      213: 6763052946662594953
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_38
+  - first:
+      213: -1586516305891424557
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_39
+  - first:
+      213: -6338549505889768691
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_40
+  - first:
+      213: -5725633214275709510
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_41
+  - first:
+      213: 1053149114319636791
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_42
+  - first:
+      213: 109965600041619962
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_43
+  - first:
+      213: 4189907095334948839
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_44
+  - first:
+      213: 307682279689393340
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_45
+  - first:
+      213: -3616291706372933979
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_46
+  - first:
+      213: 5907449180246256277
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_47
+  - first:
+      213: -9090749856414442623
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_48
+  - first:
+      213: 2447099098007675217
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_49
+  - first:
+      213: -2663912472101197806
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_50
+  - first:
+      213: -2354689547661590932
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_51
+  - first:
+      213: 1282609301014972520
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_52
+  - first:
+      213: 6422880633499493121
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_53
+  - first:
+      213: 2145607022629759461
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_54
+  - first:
+      213: -6008801697797557082
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_55
+  - first:
+      213: -1550927407155330358
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_56
+  - first:
+      213: 583829714873274812
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_57
+  - first:
+      213: -2187799651510695757
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_58
+  - first:
+      213: 6260413443244224162
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_59
+  - first:
+      213: 8141377902673879304
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_60
+  - first:
+      213: -2829350202262918416
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_61
+  - first:
+      213: -5441496989598764944
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_62
+  - first:
+      213: -8297313221173864229
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_63
+  - first:
+      213: 4803026694368407714
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_64
+  - first:
+      213: 8170345859080308118
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_65
+  - first:
+      213: -7325366702145714739
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_66
+  - first:
+      213: -2012449691239627829
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_67
+  - first:
+      213: 4507626419336510329
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_68
+  - first:
+      213: -7019795697208229471
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_69
+  - first:
+      213: 1715898857960005344
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_70
+  - first:
+      213: -2083234488692131937
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_71
+  - first:
+      213: -8541934876297988173
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_72
+  - first:
+      213: -1058833732200966402
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_73
+  - first:
+      213: -7745249516833506201
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_74
+  - first:
+      213: -2913389301763263524
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_75
+  - first:
+      213: 1633324143676058060
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_76
+  - first:
+      213: -6277064343097114610
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_77
+  - first:
+      213: -3739713129481220522
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_78
+  - first:
+      213: 8178722690452234468
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_79
+  - first:
+      213: -1267981794695630923
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_80
+  - first:
+      213: 1447430947450505513
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_81
+  - first:
+      213: -3011122960195598548
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_82
+  - first:
+      213: -6554815237586851951
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_83
+  - first:
+      213: -3140906994853248807
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_84
+  - first:
+      213: 1923650947216512097
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_85
+  - first:
+      213: -5184972038564608715
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_86
+  - first:
+      213: 4470053325557063556
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_87
+  - first:
+      213: 6790033166840654752
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_88
+  - first:
+      213: -238574553549077648
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_89
+  - first:
+      213: 8192206969245129317
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_90
+  - first:
+      213: 442992167423956115
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_91
+  - first:
+      213: -2816788086663518784
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_92
+  - first:
+      213: 7205517733912493785
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_93
+  - first:
+      213: 7435537469825734608
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_94
+  - first:
+      213: -2312769790406811874
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_95
+  - first:
+      213: 1184053350641796785
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_96
+  - first:
+      213: 2941533459148603496
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_97
+  - first:
+      213: 6101388207607199486
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_98
+  - first:
+      213: 4101350604151843025
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_99
+  - first:
+      213: -7831804734471324966
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_100
+  - first:
+      213: 4056110896650956533
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_101
+  - first:
+      213: 8023394325169998297
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_102
+  - first:
+      213: -8254169648098719506
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_103
+  - first:
+      213: 1861641594367993304
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_104
+  - first:
+      213: 5559947551360034016
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_105
+  - first:
+      213: -8883380560264374402
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_106
+  - first:
+      213: 5273434214665757980
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_107
+  - first:
+      213: 101722965957564322
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_108
+  - first:
+      213: 8878762189949610248
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_109
+  - first:
+      213: -751417494795075871
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_110
+  - first:
+      213: -2951924197255058583
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_111
+  - first:
+      213: -2346361925964157116
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_112
+  - first:
+      213: 9188575209015637488
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_113
+  - first:
+      213: -4470604283577204577
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_114
+  - first:
+      213: 5129429308714723284
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_115
+  - first:
+      213: -3527764186809055665
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_116
+  - first:
+      213: -2787499139359553680
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_117
+  - first:
+      213: -6179747701330433317
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_118
+  - first:
+      213: 525610629346773537
+    second: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 787
+        width: 125
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b71931c69faf08c0800000000000000
+      internalID: -4030810079451605069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 778
+        width: 154
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f27f24b1904ddf0800000000000000
+      internalID: -156490074358862059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 773
+        width: 174
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01240a9e38e0c9470800000000000000
+      internalID: 8402606964489601552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_3
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 790
+        width: 156
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2097a6d9c8b73ed0800000000000000
+      internalID: -2434273896541220820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 561
+        width: 161
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c49d1f9e4e08e90800000000000000
+      internalID: -7025363725261910909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 549
+        width: 171
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce6f1272ef50d190800000000000000
+      internalID: -7939740716872274227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_6
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 535
+        width: 172
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f67979e778c0620800000000000000
+      internalID: 2741715250940702486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_7
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 555
+        width: 159
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c79d718d57bce90800000000000000
+      internalID: -7004375224471159742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 333
+        width: 167
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45b0dd9187cd0760800000000000000
+      internalID: 7425810720116225356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 323
+        width: 171
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e213e3a89c07f2c0800000000000000
+      internalID: -4398032661379869977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_10
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 333
+        width: 170
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb8ab6d9a8c6d580800000000000000
+      internalID: -8802627789871477787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_11
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 349
+        width: 135
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f243906655edda360800000000000000
+      internalID: 7182641439091274799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16-Frame Impact Sprite Sheet-edited-free (carve.photos)_12
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 119
+        width: 149
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfa9380182a76ad0800000000000000
+      internalID: -2709017975767584820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 35b776276b12006419a2777f301e1748
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_0: -4030810079451605069
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_1: -156490074358862059
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_10: -8802627789871477787
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_100: -7831804734471324966
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_101: 4056110896650956533
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_102: 8023394325169998297
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_103: -8254169648098719506
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_104: 1861641594367993304
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_105: 5559947551360034016
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_106: -8883380560264374402
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_107: 5273434214665757980
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_108: 101722965957564322
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_109: 8878762189949610248
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_11: 7182641439091274799
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_110: -751417494795075871
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_111: -2951924197255058583
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_112: -2346361925964157116
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_113: 9188575209015637488
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_114: -4470604283577204577
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_115: 5129429308714723284
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_116: -3527764186809055665
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_117: -2787499139359553680
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_118: -6179747701330433317
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_119: 525610629346773537
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_12: -2709017975767584820
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_13: 6328245188058400643
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_14: -9041924647879213679
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_15: -513605016596257681
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_16: 4460816057330987328
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_17: 8046014376480211549
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_18: 4051617070939292706
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_19: 7674732674430532575
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_2: 8402606964489601552
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_20: 7377394733122466247
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_21: -9149687777635443403
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_22: -4910536196188095604
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_23: 7813933149597735366
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_24: 7701036015670272550
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_25: 5606121234762866536
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_26: 8360903184995315178
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_27: 6110208341597578545
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_28: -3955388101459373203
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_29: -3972089438475932587
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_3: -2434273896541220820
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_30: -7907781083145772020
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_31: -5588957809198586102
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_32: 1779678163647482789
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_33: -3358004082707299325
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_34: 1556244087660897938
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_35: -4757161157972779661
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_36: -1320629542107730708
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_37: -4159685282773946419
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_38: 6763052946662594953
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_39: -1586516305891424557
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_4: -7025363725261910909
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_40: -6338549505889768691
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_41: -5725633214275709510
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_42: 1053149114319636791
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_43: 109965600041619962
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_44: 4189907095334948839
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_45: 307682279689393340
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_46: -3616291706372933979
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_47: 5907449180246256277
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_48: -9090749856414442623
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_49: 2447099098007675217
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_5: -7939740716872274227
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_50: -2663912472101197806
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_51: -2354689547661590932
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_52: 1282609301014972520
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_53: 6422880633499493121
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_54: 2145607022629759461
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_55: -6008801697797557082
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_56: -1550927407155330358
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_57: 583829714873274812
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_58: -2187799651510695757
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_59: 6260413443244224162
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_6: 2741715250940702486
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_60: 8141377902673879304
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_61: -2829350202262918416
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_62: -5441496989598764944
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_63: -8297313221173864229
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_64: 4803026694368407714
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_65: 8170345859080308118
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_66: -7325366702145714739
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_67: -2012449691239627829
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_68: 4507626419336510329
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_69: -7019795697208229471
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_7: -7004375224471159742
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_70: 1715898857960005344
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_71: -2083234488692131937
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_72: -8541934876297988173
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_73: -1058833732200966402
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_74: -7745249516833506201
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_75: -2913389301763263524
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_76: 1633324143676058060
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_77: -6277064343097114610
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_78: -3739713129481220522
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_79: 8178722690452234468
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_8: 7425810720116225356
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_80: -1267981794695630923
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_81: 1447430947450505513
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_82: -3011122960195598548
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_83: -6554815237586851951
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_84: -3140906994853248807
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_85: 1923650947216512097
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_86: -5184972038564608715
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_87: 4470053325557063556
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_88: 6790033166840654752
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_89: -238574553549077648
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_9: -4398032661379869977
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_90: 8192206969245129317
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_91: 442992167423956115
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_92: -2816788086663518784
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_93: 7205517733912493785
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_94: 7435537469825734608
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_95: -2312769790406811874
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_96: 1184053350641796785
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_97: 2941533459148603496
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_98: 6101388207607199486
+      16-Frame Impact Sprite Sheet-edited-free (carve.photos)_99: 4101350604151843025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

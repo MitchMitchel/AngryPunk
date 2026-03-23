@@ -1,0 +1,31 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[探]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / VS Code файлы
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Метаданные ОС
+.DS_Store
+Thumbs.db
+
+# Кэш Unity
+/[Aa]ssets/AssetStoreTools*
+
+# Crash reports
+sysinfo.txt
+
+# Сгенерированные файлы сборки
+[Dd]ebug/
+[Rr]elease/

@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: 9d5e99d566e9d0c4eb14bd0c59f5e5a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4111658700658606537
+    second: 6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_0
+  - first:
+      213: -6182468255356961730
+    second: 6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_1
+  - first:
+      213: -8928500102221385475
+    second: 6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_2
+  - first:
+      213: -491119443852172478
+    second: 6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_3
+  - first:
+      213: -8852014711000320119
+    second: 6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_4
+  - first:
+      213: -2612747312898330536
+    second: 6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_5
+  - first:
+      213: 51911887368421849
+    second: 6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_6
+  - first:
+      213: 8729381728764097342
+    second: 6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_7
+  - first:
+      213: 7580369705057177101
+    second: 6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_8
+  - first:
+      213: -7759406649089907054
+    second: 6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_9
+  - first:
+      213: -435870122123817149
+    second: 6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_10
+  - first:
+      213: -53160294261172763
+    second: 6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_11
+  - first:
+      213: 1727515637126240479
+    second: 6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 348
+        width: 97
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d10736269d68b000800000000000000
+      internalID: 51911887368421849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_9
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 348
+        width: 123
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296213583cc015490800000000000000
+      internalID: -7759406649089907054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8877ab8a3fed96b439290d36abb79cfc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_0: 4111658700658606537
+      6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_1: -6182468255356961730
+      6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_10: -435870122123817149
+      6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_11: -53160294261172763
+      6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_12: 1727515637126240479
+      6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_2: -8928500102221385475
+      6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_3: -491119443852172478
+      6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_4: -8852014711000320119
+      6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_5: -2612747312898330536
+      6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_6: 51911887368421849
+      6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_7: 8729381728764097342
+      6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_8: 7580369705057177101
+      6-Frame Hit Reaction Sprite Sheet-no-bg-preview (carve.photos)_9: -7759406649089907054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 2afb609cc78d54741841576040063ee6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8496911553413948045
+    second: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_0
+  - first:
+      213: -7368274921442422545
+    second: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_1
+  - first:
+      213: -351815178606060927
+    second: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_2
+  - first:
+      213: 8011007266710404325
+    second: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_3
+  - first:
+      213: 2287599838019017800
+    second: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_4
+  - first:
+      213: 772013786794073387
+    second: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_5
+  - first:
+      213: -2832635455975103168
+    second: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_6
+  - first:
+      213: -245186423981723689
+    second: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_7
+  - first:
+      213: 1703957931453589438
+    second: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_8
+  - first:
+      213: 2673125381583026170
+    second: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_9
+  - first:
+      213: -4304940018776995841
+    second: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_10
+  - first:
+      213: -8710861046287694333
+    second: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 501
+        width: 176
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d59d2f5f7e41a80800000000000000
+      internalID: -8496911553413948045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 470
+        width: 145
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0510c6ff0aeb990800000000000000
+      internalID: -7368274921442422545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 467
+        width: 175
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a589485f91e1bf0800000000000000
+      internalID: -351815178606060927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 502
+        width: 180
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecb8593aa0dc2f60800000000000000
+      internalID: 8011007266710404325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_4
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 469
+        width: 149
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c5d55beef2fbf10800000000000000
+      internalID: 2287599838019017800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 469
+        width: 119
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d9093e27eb6ba00800000000000000
+      internalID: 772013786794073387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 247
+        width: 170
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0456d6c8f0570b8d0800000000000000
+      internalID: -2832635455975103168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 231
+        width: 124
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df22d61f3ce89cf0800000000000000
+      internalID: -245186423981723689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 250
+        width: 167
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb72080f5bca5a710800000000000000
+      internalID: 1703957931453589438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_9
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 232
+        width: 146
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af736592f59d81520800000000000000
+      internalID: 2673125381583026170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_10
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 247
+        width: 176
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff70f698cd7c144c0800000000000000
+      internalID: -4304940018776995841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 231
+        width: 182
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3060c30d70ecc1780800000000000000
+      internalID: -8710861046287694333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f2346abb3da5309449954ae695ddfde7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_0: -8496911553413948045
+      8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_1: -7368274921442422545
+      8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_10: -4304940018776995841
+      8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_11: -8710861046287694333
+      8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_2: -351815178606060927
+      8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_3: 8011007266710404325
+      8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_4: 2287599838019017800
+      8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_5: 772013786794073387
+      8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_6: -2832635455975103168
+      8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_7: -245186423981723689
+      8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_8: 1703957931453589438
+      8-Frame Aggressive Stride Cycle-no-bg-preview (carve.photos) (1)_9: 2673125381583026170
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

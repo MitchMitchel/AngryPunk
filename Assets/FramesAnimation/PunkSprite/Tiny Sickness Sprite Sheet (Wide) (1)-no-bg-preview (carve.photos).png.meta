@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: fdd3006a605341d4283904e2e4fdfa3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4511470697659657997
+    second: Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_0
+  - first:
+      213: -3658664605830332695
+    second: Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_1
+  - first:
+      213: 4436689368407720452
+    second: Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_2
+  - first:
+      213: 6046515072766553384
+    second: Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_3
+  - first:
+      213: -8335356078981677896
+    second: Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_4
+  - first:
+      213: -8274901771998328110
+    second: Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_5
+  - first:
+      213: -6532493226201064793
+    second: Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_6
+  - first:
+      213: -6028024561417324192
+    second: Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_7
+  - first:
+      213: -4683374509799092800
+    second: Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_8
+  - first:
+      213: -6289219672889702804
+    second: Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 355
+        width: 114
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f669c52b6fb9e30800000000000000
+      internalID: 4511470697659657997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 358
+        width: 76
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402c1b65979429d30800000000000000
+      internalID: 4436689368407720452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 359
+        width: 124
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dab414c6989e350800000000000000
+      internalID: 6046515072766553384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_4
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 359
+        width: 161
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc77eb0fcdd25c80800000000000000
+      internalID: -8335356078981677896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_5
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 359
+        width: 107
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da0ac04ea4a92d80800000000000000
+      internalID: -8274901771998328110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_6
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 358
+        width: 97
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aad3aa750ce755a0800000000000000
+      internalID: -6532493226201064793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dd3de8b9dae23004880182beaa9dd8cf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_0: 4511470697659657997
+      Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_1: -3658664605830332695
+      Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_2: 4436689368407720452
+      Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_3: 6046515072766553384
+      Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_4: -8335356078981677896
+      Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_5: -8274901771998328110
+      Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_6: -6532493226201064793
+      Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_7: -6028024561417324192
+      Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_8: -4683374509799092800
+      Tiny Sickness Sprite Sheet (Wide) (1)-no-bg-preview (carve.photos)_9: -6289219672889702804
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
