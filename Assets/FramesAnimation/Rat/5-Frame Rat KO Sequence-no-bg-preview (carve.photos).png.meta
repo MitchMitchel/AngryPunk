@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: ae694b8fbcdfdec4391185e6cbaed63f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7686721513163653384
+    second: 5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_0
+  - first:
+      213: 924892695458717304
+    second: 5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_1
+  - first:
+      213: -2329436797283768987
+    second: 5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_2
+  - first:
+      213: -4461996275649451161
+    second: 5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_3
+  - first:
+      213: -3856929142030568566
+    second: 5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_4
+  - first:
+      213: -4435116315439174841
+    second: 5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_5
+  - first:
+      213: 4501484025731688896
+    second: 5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_6
+  - first:
+      213: -8950442849957325623
+    second: 5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_7
+  - first:
+      213: 8766754003224072873
+    second: 5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_8
+  - first:
+      213: -5872894450168765147
+    second: 5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_9
+  - first:
+      213: -2316924689377244530
+    second: 5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 247
+        width: 231
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801097f7d78bcaa60800000000000000
+      internalID: 7686721513163653384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 251
+        width: 191
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e9b289101e5dc00800000000000000
+      internalID: 924892695458717304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_3
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 516
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b6cc8270ec312c0800000000000000
+      internalID: -4461996275649451161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6d61df8e4c9410f48ba295787f33eeac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_0: 7686721513163653384
+      5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_1: 924892695458717304
+      5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_10: -2316924689377244530
+      5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_2: -2329436797283768987
+      5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_3: -4461996275649451161
+      5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_4: -3856929142030568566
+      5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_5: -4435116315439174841
+      5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_6: 4501484025731688896
+      5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_7: -8950442849957325623
+      5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_8: 8766754003224072873
+      5-Frame Rat KO Sequence-no-bg-preview (carve.photos)_9: -5872894450168765147
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

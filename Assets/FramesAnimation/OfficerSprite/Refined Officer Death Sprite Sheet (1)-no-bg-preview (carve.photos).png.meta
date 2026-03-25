@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: 002e3062fbbbf414bafab67da9be5e8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2738002404315690258
+    second: Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_0
+  - first:
+      213: 815838666490005052
+    second: Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_1
+  - first:
+      213: -4900988045806225939
+    second: Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_2
+  - first:
+      213: -2333127276377451737
+    second: Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_3
+  - first:
+      213: -8945000043547187086
+    second: Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_4
+  - first:
+      213: -4579363028905193713
+    second: Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_5
+  - first:
+      213: -485980951000360294
+    second: Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_6
+  - first:
+      213: -4489088575117797918
+    second: Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_7
+  - first:
+      213: -8376837322961048445
+    second: Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_8
+  - first:
+      213: 8076343673624898665
+    second: Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_9
+  - first:
+      213: 2623994882578288632
+    second: Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_10
+  - first:
+      213: 7214292812933843896
+    second: Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 360
+        width: 139
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215f66f1ea65ff520800000000000000
+      internalID: 2738002404315690258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 359
+        width: 143
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c364a26d1f0725b00800000000000000
+      internalID: 815838666490005052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_6
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 354
+        width: 196
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a540066e27149f0800000000000000
+      internalID: -485980951000360294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_7
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 351
+        width: 200
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5d6d2a9bd83b1c0800000000000000
+      internalID: -4489088575117797918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fb99b7e7e3b742b44bea9cb1abb97732
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_0: 2738002404315690258
+      Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_1: 815838666490005052
+      Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_10: 2623994882578288632
+      Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_11: 7214292812933843896
+      Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_2: -4900988045806225939
+      Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_3: -2333127276377451737
+      Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_4: -8945000043547187086
+      Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_5: -4579363028905193713
+      Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_6: -485980951000360294
+      Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_7: -4489088575117797918
+      Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_8: -8376837322961048445
+      Refined Officer Death Sprite Sheet (1)-no-bg-preview (carve.photos)_9: 8076343673624898665
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

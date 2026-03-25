@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: 549e21e4cdf16554aa9ef3de599e7e72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1716959727555066554
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_0
+  - first:
+      213: -1445958847073288712
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_1
+  - first:
+      213: 3591644403762317464
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_2
+  - first:
+      213: -6507139076459457756
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_3
+  - first:
+      213: 3322627667817465906
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_4
+  - first:
+      213: -3560411814669039190
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_5
+  - first:
+      213: -5315295829959732611
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_6
+  - first:
+      213: -5665976600505007721
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_7
+  - first:
+      213: 9045346552400855197
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_8
+  - first:
+      213: 1263969510792024072
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_9
+  - first:
+      213: 2067047454011169788
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_10
+  - first:
+      213: -8458087820050891129
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_11
+  - first:
+      213: 3399945303401861230
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_12
+  - first:
+      213: -2714322056490303293
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_13
+  - first:
+      213: -992922566599215828
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_14
+  - first:
+      213: 7661380640525589630
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_15
+  - first:
+      213: 8037204578272984009
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_16
+  - first:
+      213: 2541526268290596895
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_17
+  - first:
+      213: 6824855909395741906
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_18
+  - first:
+      213: -2129506190827440575
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_19
+  - first:
+      213: 2461215186305397190
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_20
+  - first:
+      213: -6982440671168482110
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_21
+  - first:
+      213: -6341604170553351276
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_22
+  - first:
+      213: 8684068198610951877
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_23
+  - first:
+      213: 7862481418844137934
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_24
+  - first:
+      213: -4351345813013266973
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_25
+  - first:
+      213: -7289375305604830347
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_26
+  - first:
+      213: 3526177763265161738
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_27
+  - first:
+      213: -6864173972815752602
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_28
+  - first:
+      213: 5246899058115749283
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_29
+  - first:
+      213: 8482487698519369900
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_30
+  - first:
+      213: -9085987586250558232
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_31
+  - first:
+      213: -6759678736029046349
+    second: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_8
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 682
+        width: 181
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90482ed3c6878d70800000000000000
+      internalID: 9045346552400855197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 455
+        width: 131
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6096016d380f2f20800000000000000
+      internalID: 3399945303401861230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 458
+        width: 194
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c159fc911b25a60800000000000000
+      internalID: 7661380640525589630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_18
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 458
+        width: 121
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc32ca3a42c6be50800000000000000
+      internalID: 6824855909395741906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_19
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 458
+        width: 122
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1463cbce6697272e0800000000000000
+      internalID: -2129506190827440575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_20
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 458
+        width: 134
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1b78ffb2ef72220800000000000000
+      internalID: 2461215186305397190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_24
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 191
+        width: 105
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9605771352d1d60800000000000000
+      internalID: 7862481418844137934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_30
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 166
+        width: 119
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca82ed1ae99d7b570800000000000000
+      internalID: 8482487698519369900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 650e4fbf1cba8f8419b5cdaa2011492b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_0: -1716959727555066554
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_1: -1445958847073288712
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_10: 2067047454011169788
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_11: -8458087820050891129
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_12: 3399945303401861230
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_13: -2714322056490303293
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_14: -992922566599215828
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_15: 7661380640525589630
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_16: 8037204578272984009
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_17: 2541526268290596895
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_18: 6824855909395741906
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_19: -2129506190827440575
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_2: 3591644403762317464
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_20: 2461215186305397190
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_21: -6982440671168482110
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_22: -6341604170553351276
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_23: 8684068198610951877
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_24: 7862481418844137934
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_25: -4351345813013266973
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_26: -7289375305604830347
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_27: 3526177763265161738
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_28: -6864173972815752602
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_29: 5246899058115749283
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_3: -6507139076459457756
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_30: 8482487698519369900
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_31: -9085987586250558232
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_32: -6759678736029046349
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_4: 3322627667817465906
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_5: -3560411814669039190
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_6: -5315295829959732611
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_7: -5665976600505007721
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_8: 9045346552400855197
+      5-Frame Skater Hurt Cycle (2)-edited-free (carve.photos)_9: 1263969510792024072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

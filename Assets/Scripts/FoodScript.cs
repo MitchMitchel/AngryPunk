@@ -4,6 +4,7 @@ public class FoodScript : MonoBehaviour
 {
     private GameObject playerPunk;
     private Animator animPunk;
+   
 
     public enum Food { Banana, Apple, Stub, JunkFood, Song }
     public Food type;
@@ -20,27 +21,25 @@ public class FoodScript : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        
         if (collision.CompareTag("Player"))
         {
+            PunkScript punk = collision.GetComponent<PunkScript>();
             switch (type)
             {
                 case Food.Banana:
-                    animPunk.SetTrigger("EatFood");
-                    Destroy(gameObject);
-                    break;
                 case Food.Apple:
                     animPunk.SetTrigger("EatFood");
+                    punk.HealthPlayer(5f);
                     Destroy(gameObject);
                     break;
+                       
                 case Food.Stub:
-                    animPunk.SetTrigger("Intoxication");
-                    Destroy(gameObject);
-                    break;
                 case Food.JunkFood:
                     animPunk.SetTrigger("Intoxication");
+                    punk.HealthPlayer(-30f);
                     Destroy(gameObject);
-                    break;
-               
+                    break;    
             }
         }
     }

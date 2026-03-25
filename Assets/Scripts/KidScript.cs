@@ -1,14 +1,13 @@
 using UnityEngine;
 
-public class OficerScript : MonoBehaviour
+public class KidScript : MonoBehaviour
 {
-    Animator officerAnim;
+    Animator kidAnim;
     public ParticleSystem punchEffect;
     float hitCount = 3f;
-
     void Start()
     {
-        officerAnim = GetComponent<Animator>();
+        kidAnim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -20,13 +19,13 @@ public class OficerScript : MonoBehaviour
     {
         if (other.CompareTag("HitPunch"))
         {
-            hitCount --;
-            officerAnim.SetTrigger("Hit");
+            hitCount--;
+            kidAnim.SetTrigger("HitKid");
             punchEffect.Play();
         }
         if (hitCount == 0f)
         {
-            officerAnim.SetTrigger("DeathOfficer");
+            kidAnim.SetTrigger("DeathKid");
         }
     }
 }

@@ -1,32 +1,30 @@
 using UnityEngine;
 
-public class OficerScript : MonoBehaviour
+public class RatScript : MonoBehaviour
 {
-    Animator officerAnim;
+    Animator ratAnim;
     public ParticleSystem punchEffect;
     float hitCount = 3f;
-
     void Start()
     {
-        officerAnim = GetComponent<Animator>();
+        ratAnim = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("HitPunch"))
         {
-            hitCount --;
-            officerAnim.SetTrigger("Hit");
+            hitCount--;
+            ratAnim.SetTrigger("HitRat");
             punchEffect.Play();
         }
         if (hitCount == 0f)
         {
-            officerAnim.SetTrigger("DeathOfficer");
+            ratAnim.SetTrigger("DeathRat");
         }
+    }
+    void Update()
+    {
+        
     }
 }

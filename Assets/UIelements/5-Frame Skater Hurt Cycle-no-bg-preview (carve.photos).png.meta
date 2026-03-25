@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: 8568f173e72b70e428474cd43371c943
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8588608190386540445
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_0
+  - first:
+      213: 3043925973753944592
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_1
+  - first:
+      213: -7574280975815374895
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_2
+  - first:
+      213: -5969474184816436454
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_3
+  - first:
+      213: 3335021292065157051
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_4
+  - first:
+      213: -236376164228925990
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_5
+  - first:
+      213: -2077649150236488036
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_6
+  - first:
+      213: -6764171367680129606
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_7
+  - first:
+      213: 5997612310047647261
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_8
+  - first:
+      213: 8701105742981103245
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_9
+  - first:
+      213: -555155833998853397
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_10
+  - first:
+      213: -4185500499183421398
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_11
+  - first:
+      213: 1712482211040814363
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_12
+  - first:
+      213: 6664669693907006529
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_13
+  - first:
+      213: -4791716574119605453
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_14
+  - first:
+      213: 698103271875805950
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_15
+  - first:
+      213: -526295602548391900
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_16
+  - first:
+      213: -3654808811013217850
+    second: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 457
+        width: 128
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5ce8daaf5d022a0800000000000000
+      internalID: -6764171367680129606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 456
+        width: 131
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1666e88e9ccb3350800000000000000
+      internalID: 5997612310047647261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_9
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 456
+        width: 171
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8eff73a29980c870800000000000000
+      internalID: 8701105742981103245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 456
+        width: 130
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28b3f2c87d1ae5c0800000000000000
+      internalID: -4185500499183421398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_12
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 456
+        width: 79
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1563417f75f3c710800000000000000
+      internalID: 1712482211040814363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 137
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bcf37d927608db0800000000000000
+      internalID: -4791716574119605453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_16
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 191
+        width: 156
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420c04b10f832b8f0800000000000000
+      internalID: -526295602548391900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_17
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 192
+        width: 131
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1e69910c2874dc0800000000000000
+      internalID: -3654808811013217850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 60536294930df634498741a6c6286815
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_0: 8588608190386540445
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_1: 3043925973753944592
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_10: -555155833998853397
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_11: -4185500499183421398
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_12: 1712482211040814363
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_13: 6664669693907006529
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_14: -4791716574119605453
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_15: 698103271875805950
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_16: -526295602548391900
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_17: -3654808811013217850
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_2: -7574280975815374895
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_3: -5969474184816436454
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_4: 3335021292065157051
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_5: -236376164228925990
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_6: -2077649150236488036
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_7: -6764171367680129606
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_8: 5997612310047647261
+      5-Frame Skater Hurt Cycle-no-bg-preview (carve.photos)_9: 8701105742981103245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
