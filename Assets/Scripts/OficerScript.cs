@@ -27,6 +27,7 @@ public class OficerScript : MonoBehaviour
         if (hitCount == 0f)
         {
             officerAnim.SetTrigger("DeathOfficer");
+            this.enabled = false;
         }
     }
 }

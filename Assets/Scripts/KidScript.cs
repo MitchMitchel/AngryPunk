@@ -26,6 +26,7 @@ public class KidScript : MonoBehaviour
         if (hitCount == 0f)
         {
             kidAnim.SetTrigger("DeathKid");
+            this.enabled = false;
         }
     }
 }

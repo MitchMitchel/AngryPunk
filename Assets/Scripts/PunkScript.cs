@@ -56,7 +56,6 @@ public class PunkScript : MonoBehaviour
 
         transform.position = new Vector3(clampedX, clampedY, transform.position.z);
 
-
         if (directionX > 0.1f)
         {
             transform.localScale = new Vector3(1f, 1f, 1f);
@@ -76,6 +75,14 @@ public class PunkScript : MonoBehaviour
         if (currentHealth <= 0f)
         {
             animPunk.SetTrigger("Death");
+
+            Rigidbody rb = GetComponent<Rigidbody>();
+            if (rb != null)
+            {
+                rb.linearVelocity = Vector3.zero; 
+                rb.isKinematic = true;      
+            }
+
             this.enabled = false;
         }
     }
