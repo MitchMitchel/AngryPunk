@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: cac58376e1c3d5e4ebce748faa234f06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5581440808421843198
+    second: 5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_0
+  - first:
+      213: 4978294660551425580
+    second: 5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_1
+  - first:
+      213: -4648246506477493057
+    second: 5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_2
+  - first:
+      213: -5365171488614013504
+    second: 5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_3
+  - first:
+      213: 793461599885667909
+    second: 5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_4
+  - first:
+      213: -1527551557726850815
+    second: 5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_5
+  - first:
+      213: -1200114407686291094
+    second: 5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_6
+  - first:
+      213: 3618886868391431806
+    second: 5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_7
+  - first:
+      213: 6655283710023935541
+    second: 5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_8
+  - first:
+      213: -1951527072141476154
+    second: 5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_9
+  - first:
+      213: -1927923783721078207
+    second: 5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 455
+        width: 173
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef06ad0f7d2457d40800000000000000
+      internalID: 5581440808421843198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 458
+        width: 214
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e346d1e94761540800000000000000
+      internalID: 4978294660551425580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_9
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 191
+        width: 209
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cef27fa778cae4e0800000000000000
+      internalID: -1951527072141476154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_10
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 192
+        width: 185
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14237458883ae35e0800000000000000
+      internalID: -1927923783721078207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f7a5a58391d9a6d4a93f9eeba7e7d2b2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_0: 5581440808421843198
+      5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_1: 4978294660551425580
+      5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_10: -1927923783721078207
+      5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_2: -4648246506477493057
+      5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_3: -5365171488614013504
+      5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_4: 793461599885667909
+      5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_5: -1527551557726850815
+      5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_6: -1200114407686291094
+      5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_7: 3618886868391431806
+      5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_8: 6655283710023935541
+      5-Frame Skater Sprite Sheet-no-bg-preview (carve.photos)_9: -1951527072141476154
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
