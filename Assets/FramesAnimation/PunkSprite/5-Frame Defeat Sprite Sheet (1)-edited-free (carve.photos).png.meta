@@ -1,39 +1,22 @@
 fileFormatVersion: 2
-guid: 6296a540df3891144905d1b97ccafe77
+guid: d905d0768a684e745ad70157ce28f37e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7136072873232838520
-    second: "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview
-      (carve.photos)_0"
+      213: 398475869171870679
+    second: 5-Frame Defeat Sprite Sheet (1)-edited-free (carve.photos)_0
   - first:
-      213: 1120608722776492076
-    second: "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview
-      (carve.photos)_1"
+      213: -6674218631558100416
+    second: 5-Frame Defeat Sprite Sheet (1)-edited-free (carve.photos)_1
   - first:
-      213: -7191824385589321506
-    second: "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview
-      (carve.photos)_2"
+      213: 6783900074789879396
+    second: 5-Frame Defeat Sprite Sheet (1)-edited-free (carve.photos)_2
   - first:
-      213: 1519147182029745851
-    second: "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview
-      (carve.photos)_3"
+      213: -2664732636518850689
+    second: 5-Frame Defeat Sprite Sheet (1)-edited-free (carve.photos)_3
   - first:
-      213: -2535621777759848419
-    second: "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview
-      (carve.photos)_4"
-  - first:
-      213: -5350385494313095943
-    second: "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview
-      (carve.photos)_5"
-  - first:
-      213: 8425960025360932241
-    second: "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview
-      (carve.photos)_6"
-  - first:
-      213: -257723515972529977
-    second: "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview
-      (carve.photos)_7"
+      213: 6221216043403283403
+    second: 5-Frame Defeat Sprite Sheet (1)-edited-free (carve.photos)_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -207,14 +190,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview
-        (carve.photos)_7"
+      name: 5-Frame Defeat Sprite Sheet (1)-edited-free (carve.photos)_0
       rect:
         serializedVersion: 2
-        x: 823
-        y: 183
-        width: 185
-        height: 395
+        x: 85
+        y: 346
+        width: 95
+        height: 218
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,31 +205,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c05134e3d16c6cf0800000000000000
-      internalID: -257723515972529977
+      spriteID: 7dbed8911bba78500800000000000000
+      internalID: 398475869171870679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview
-        (carve.photos)_0"
+      name: 5-Frame Defeat Sprite Sheet (1)-edited-free (carve.photos)_1
       rect:
         serializedVersion: 2
-        x: 235
-        y: 183
-        width: 187
-        height: 381
+        x: 310
+        y: 345
+        width: 87
+        height: 218
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 62e772b9a7cd01c40a0186822f0ce206
-      internalID: 7136072873232838520
+      spriteID: 04a8fa024896063a0800000000000000
+      internalID: -6674218631558100416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Defeat Sprite Sheet (1)-edited-free (carve.photos)_2
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 346
+        width: 179
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eb895ec21452e50800000000000000
+      internalID: 6783900074789879396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Defeat Sprite Sheet (1)-edited-free (carve.photos)_3
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 339
+        width: 161
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f57e219c7f40bd0800000000000000
+      internalID: -2664732636518850689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Frame Defeat Sprite Sheet (1)-edited-free (carve.photos)_4
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 361
+        width: 218
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb8302b703365650800000000000000
+      internalID: 6221216043403283403
       vertices: []
       indices: 
       edges: []
@@ -256,7 +303,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 8d4e5e53fd4142b46aed96252405e5eb
+    spriteID: a5b51c9516da1184391897fb1a921c4f
     internalID: 0
     vertices: []
     indices: 
@@ -266,14 +313,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview (carve.photos)_0": 7136072873232838520
-      "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview (carve.photos)_1": 1120608722776492076
-      "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview (carve.photos)_2": -7191824385589321506
-      "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview (carve.photos)_3": 1519147182029745851
-      "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview (carve.photos)_4": -2535621777759848419
-      "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview (carve.photos)_5": -5350385494313095943
-      "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview (carve.photos)_6": 8425960025360932241
-      "\u0411\u0435\u0437 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F-no-bg-preview (carve.photos)_7": -257723515972529977
+      5-Frame Defeat Sprite Sheet (1)-edited-free (carve.photos)_0: 398475869171870679
+      5-Frame Defeat Sprite Sheet (1)-edited-free (carve.photos)_1: -6674218631558100416
+      5-Frame Defeat Sprite Sheet (1)-edited-free (carve.photos)_2: 6783900074789879396
+      5-Frame Defeat Sprite Sheet (1)-edited-free (carve.photos)_3: -2664732636518850689
+      5-Frame Defeat Sprite Sheet (1)-edited-free (carve.photos)_4: 6221216043403283403
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

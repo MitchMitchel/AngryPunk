@@ -10,7 +10,8 @@ public class PunkScript : MonoBehaviour
     Collider2D hitCollider;
     float maxHealth = 100f;
     float currentHealth;
-    public UIScripts ui;     
+    public UIScripts ui;
+    public bool hasHit = false;
     //public ParticleSystem punchEffect;
 
     bool IsPoisoned = false;
@@ -102,7 +103,22 @@ public class PunkScript : MonoBehaviour
             animPunk.SetTrigger("Punch");
             //punchEffect.Play();
         }
+        
     }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Enemy") && hasHit)
+        {
+            hasHit = false;
+        }
+    }
+    //private void OnCollisionEnter2D(Collision2D collision)
+    //{
+    //    if (collision.gameObject.CompareTag("Enemy"))
+    //    {
+    //        animPunk.SetTrigger("Damage");
+    //    }
+    //}
     void EndPunch()
     {
         

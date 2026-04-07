@@ -1,31 +1,33 @@
 using Unity.VisualScripting;
 using UnityEngine;
 using static UnityEngine.GraphicsBuffer;
-
-using UnityEngine;
+using UnityEngine.UI;
 
 public class RatScript : MonoBehaviour
 {
     Animator ratAnim;
-    Rigidbody2D rb; // Добавляем ссылку на компонент
+    Rigidbody2D rb;
+    public Image health;
 
     public ParticleSystem punchEffect;
     public Transform targetPosition;
-
+    float maxHealth = 100f;
     public float hitCount = 3f;
-    public float stopDistance = 0.5f; // Уменьшил для точности
+    public float stopDistance = 0.5f; 
     public float speed = 3f;
+    
+    
 
     void Start()
     {
         ratAnim = GetComponent<Animator>();
-        rb = GetComponent<Rigidbody2D>(); // Инициализируем Rigidbody
-
-        // Чтобы крыса не вращалась как бешеная при столкновениях:
+        rb = GetComponent<Rigidbody2D>(); 
+        
+       
         rb.freezeRotation = true;
     }
 
-    void FixedUpdate() // Для физики лучше использовать FixedUpdate
+    void FixedUpdate() 
     {
         MoveOnScene();
     }
@@ -47,18 +49,13 @@ public class RatScript : MonoBehaviour
             
             rb.MovePosition(newPos);
 
-            
-
-            
-
-
         }
         
 
         if (distance <= stopDistance)
         {
             ratAnim.SetBool("IsIdle", true);
-            ratAnim.SetBool("IsRunning", false); // Не забудь выключить бег!
+            ratAnim.SetBool("IsRunning", false); 
         }
         else
         {
@@ -67,12 +64,19 @@ public class RatScript : MonoBehaviour
         }
         
     }
+    void EndPunch()
+    {
+        ratAnim.SetBool("IsIdle", true);
+    }
+    
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("HitPunch"))
         {
             hitCount--;
+            //ratAnim.SetTrigger("Punch");
+            Debug.Log("Hit");
             ratAnim.SetTrigger("HitRat");
             if (punchEffect != null) punchEffect.Play();
         }
@@ -80,7 +84,7 @@ public class RatScript : MonoBehaviour
         if (hitCount <= 0f)
         {
             ratAnim.SetTrigger("DeathRat");
-            rb.simulated = false; // Выключаем физику после смерти
+            rb.simulated = false; 
             this.enabled = false;
         }
     }
