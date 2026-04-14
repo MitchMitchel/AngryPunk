@@ -8,6 +8,7 @@ public class KidScript : MonoBehaviour
     float hitCount = 3f;
     Rigidbody2D kidRb;
     public Transform targetPosition;
+    public Transform punkPos;
 
     public float stopDistance = 0.5f; 
     public float speed = 3f;
@@ -21,6 +22,10 @@ public class KidScript : MonoBehaviour
     void FixedUpdate()
     {
         MoveOnScene();
+    }
+    private void Update()
+    {
+        PunchKid();
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -44,17 +49,12 @@ public class KidScript : MonoBehaviour
 
         if (distance > stopDistance)
         {
-
             Vector2 direction = ((Vector2)targetPosition.position - kidRb.position).normalized;
-
 
             Vector2 newPos = kidRb.position + direction * speed * Time.fixedDeltaTime;
 
-
             kidRb.MovePosition(newPos);
-
         }
-
 
         if (distance <= stopDistance)
         {
@@ -67,5 +67,17 @@ public class KidScript : MonoBehaviour
             kidAnim.SetBool("IsGo", true);
         }
 
+    }
+
+    void PunchKid()
+    {
+
+        float dist = Vector3.Distance(punkPos.position, transform.position);
+
+        if (dist > 2f)
+        {
+            
+            kidAnim.SetTrigger("PunchKid");
+        }
     }
 }

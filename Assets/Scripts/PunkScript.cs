@@ -1,4 +1,5 @@
 using Unity.Mathematics.Geometry;
+using Unity.VisualScripting;
 using UnityEditor.Tilemaps;
 using UnityEngine;
 
@@ -12,11 +13,11 @@ public class PunkScript : MonoBehaviour
     float currentHealth;
     public UIScripts ui;
     public bool hasHit = false;
+    public float amount = 30f;
     //public ParticleSystem punchEffect;
 
     bool IsPoisoned = false;
     bool IsEat = false;
-
 
 
     [SerializeField] float speed = 3f;
@@ -107,18 +108,16 @@ public class PunkScript : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Enemy") && hasHit)
+        if (other.CompareTag("EnemyHit"))
         {
-            hasHit = false;
+            animPunk.SetTrigger("Damage");
+            Damage(30f);
+            
         }
+
+        
     }
-    //private void OnCollisionEnter2D(Collision2D collision)
-    //{
-    //    if (collision.gameObject.CompareTag("Enemy"))
-    //    {
-    //        animPunk.SetTrigger("Damage");
-    //    }
-    //}
+    
     void EndPunch()
     {
         
@@ -140,4 +139,5 @@ public class PunkScript : MonoBehaviour
     {
         IsEat = false;
     }
+    
 }
