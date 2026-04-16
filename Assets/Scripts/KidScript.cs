@@ -9,6 +9,8 @@ public class KidScript : MonoBehaviour
     Rigidbody2D kidRb;
     public Transform targetPosition;
     public Transform punkPos;
+    public UIScripts ui;
+    public PunkScript punk;
 
     public float stopDistance = 0.5f; 
     public float speed = 3f;
@@ -32,6 +34,7 @@ public class KidScript : MonoBehaviour
         if (other.CompareTag("HitPunch"))
         {
             hitCount--;
+            ui.UpdateScore(punk.scHit);
             kidAnim.SetTrigger("HitKid");
             punchEffect.Play();
         }
@@ -74,7 +77,7 @@ public class KidScript : MonoBehaviour
 
         float dist = Vector3.Distance(punkPos.position, transform.position);
 
-        if (dist > 2f)
+        if (dist < 1f)
         {
             
             kidAnim.SetTrigger("PunchKid");

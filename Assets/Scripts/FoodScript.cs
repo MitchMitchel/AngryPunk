@@ -38,6 +38,7 @@ public class FoodScript : MonoBehaviour
                 case Food.JunkFood:
                     animPunk.SetTrigger("Intoxication");
                     punk.HealthPlayer(-30f);
+                    punk.GetComponent<AudioSource>().Play();
                     Destroy(gameObject);
                     break;    
             }

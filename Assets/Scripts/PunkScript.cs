@@ -14,6 +14,7 @@ public class PunkScript : MonoBehaviour
     public UIScripts ui;
     public bool hasHit = false;
     public float amount = 30f;
+    public int scHit = 0;
     //public ParticleSystem punchEffect;
 
     bool IsPoisoned = false;
@@ -102,7 +103,7 @@ public class PunkScript : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
         {
             animPunk.SetTrigger("Punch");
-            //punchEffect.Play();
+            scHit += 30;
         }
         
     }
@@ -114,8 +115,7 @@ public class PunkScript : MonoBehaviour
             Damage(30f);
             
         }
-
-        
+    
     }
     
     void EndPunch()

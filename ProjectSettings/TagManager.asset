@@ -9,6 +9,7 @@ TagManager:
   - Poison
   - Song
   - Enemy
+  - EnemyHit
   layers:
   - Default
   - TransparentFX

@@ -12,6 +12,8 @@ public class RatScript : MonoBehaviour
     public ParticleSystem punchEffect;
     public Transform targetPosition;
     public Transform punkPos;
+    public UIScripts ui;
+    public PunkScript punk;
     float maxHealth = 100f;
     public float hitCount = 3f;
     public float stopDistance = 0.5f; 
@@ -94,7 +96,7 @@ public class RatScript : MonoBehaviour
         if (other.CompareTag("HitPunch"))
         {
             hitCount--;
-            
+            ui.UpdateScore(punk.scHit);
             ratAnim.SetTrigger("HitRat");
             if (punchEffect != null) punchEffect.Play();
         }
