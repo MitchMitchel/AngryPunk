@@ -6,15 +6,18 @@ using UnityEngine;
 public class PunkScript : MonoBehaviour
 {
     Rigidbody2D rigidPunk;
-    Animator animPunk;
+    public Animator animPunk;
     SpriteRenderer spritePunk;
     Collider2D hitCollider;
+    public AudioSource audio;
+    public AudioClip eatAudio;
     float maxHealth = 100f;
     float currentHealth;
     public UIScripts ui;
     public bool hasHit = false;
     public float amount = 30f;
     public int scHit = 0;
+    private bool isDead = false;
     //public ParticleSystem punchEffect;
 
     bool IsPoisoned = false;
@@ -30,6 +33,8 @@ public class PunkScript : MonoBehaviour
         rigidPunk = GetComponent<Rigidbody2D>();
         animPunk = GetComponent<Animator>();
         spritePunk = GetComponent<SpriteRenderer>();
+        audio = GetComponent<AudioSource>();
+        
     }
 
     // Update is called once per frame
@@ -45,6 +50,7 @@ public class PunkScript : MonoBehaviour
             rigidPunk.linearVelocity = Vector2.zero;
             animPunk.SetFloat("Run", 0);
         }
+        
     }
     void Run()
     {
@@ -72,55 +78,77 @@ public class PunkScript : MonoBehaviour
     }
     public void HealthPlayer(float amount)
     {
+        if (currentHealth <= 0) return;
         currentHealth += amount;
+        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+        ui.DamageHealth(currentHealth, maxHealth);
+        
+    }
+    public void DamageEat(float damage)
+    {
+        currentHealth -= 30f;
+        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+        ui.DamageHealth(currentHealth, maxHealth);
+        if (currentHealth <= 0)
+        {
+            animPunk.SetBool("IsDeath", true);
+            Rigidbody2D rb = GetComponent<Rigidbody2D>();
+            if (rb != null)
+            {
+                rb.linearVelocity = Vector3.zero;
+                rb.bodyType = RigidbodyType2D.Kinematic;
+                rb.simulated = false;
+            }
+            Collider2D col = GetComponent<Collider2D>();
+            if (col != null)
+            {
+                col.enabled = false;
+            }
+            enabled = false;
+        }
+    }
+    public void DamageFight(float damage)
+    {
+        if (isDead) return;        
+        currentHealth -= 10f;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
         ui.DamageHealth(currentHealth, maxHealth);
         if (currentHealth <= 0f)
         {
-            animPunk.SetTrigger("Death");
-
-            Rigidbody rb = GetComponent<Rigidbody>();
+            isDead = true;
+            animPunk.SetBool("IsDead",true);
+            Rigidbody2D rb = GetComponent<Rigidbody2D>();
             if (rb != null)
             {
-                rb.linearVelocity = Vector3.zero; 
-                rb.isKinematic = true;      
+                rb.linearVelocity = Vector3.zero;
+                rb.bodyType = RigidbodyType2D.Kinematic;
+                rb.simulated = false;
+
             }
-
-            this.enabled = false;
+            enabled = false;
         }
-    }
-    public void Damage(float damage)
-    {
-        currentHealth -= 30f;
-
-        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
-
-        ui.DamageHealth(currentHealth, maxHealth);
-
     }
     void Punch()
     {
         if (Input.GetMouseButtonDown(0))
         {
             animPunk.SetTrigger("Punch");
-            scHit += 30;
-        }
-        
+            scHit += 10;
+            
+        }    
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("EnemyHit"))
         {
             animPunk.SetTrigger("Damage");
-            Damage(30f);
-            
-        }
-    
+            DamageFight(30f);                    
+        }    
     }
     
+    
     void EndPunch()
-    {
-        
+    {    
         animPunk.SetBool("Idle", true);
     }
     void StartPoison()

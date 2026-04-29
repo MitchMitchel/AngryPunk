@@ -7,6 +7,8 @@ public class KidScript : MonoBehaviour
     public ParticleSystem punchEffect;
     float hitCount = 3f;
     Rigidbody2D kidRb;
+    public AudioClip hitClip;
+    AudioSource audio;
     public Transform targetPosition;
     public Transform punkPos;
     public UIScripts ui;
@@ -18,6 +20,9 @@ public class KidScript : MonoBehaviour
     {
         kidAnim = GetComponent<Animator>();
         kidRb = GetComponent<Rigidbody2D>();
+        audio = GetComponent<AudioSource>();
+        gameObject.SetActive(false);
+
     }
 
     // Update is called once per frame
@@ -35,6 +40,7 @@ public class KidScript : MonoBehaviour
         {
             hitCount--;
             ui.UpdateScore(punk.scHit);
+            audio.PlayOneShot(hitClip);
             kidAnim.SetTrigger("HitKid");
             punchEffect.Play();
         }

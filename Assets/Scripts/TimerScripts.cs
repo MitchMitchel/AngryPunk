@@ -11,12 +11,6 @@ public class TimerScripts : MonoBehaviour
     private float timeRemaining = 60f;
     private int lastSecond = -1;
 
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
     void Update()
     {
         if (timeRemaining > 0)

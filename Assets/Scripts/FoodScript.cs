@@ -31,13 +31,14 @@ public class FoodScript : MonoBehaviour
                 case Food.Apple:
                     animPunk.SetTrigger("EatFood");
                     punk.HealthPlayer(5f);
+                    punk.audio.PlayOneShot(punk.eatAudio);
                     Destroy(gameObject);
                     break;
                        
                 case Food.Stub:
                 case Food.JunkFood:
                     animPunk.SetTrigger("Intoxication");
-                    punk.HealthPlayer(-30f);
+                    punk.DamageEat(-30f);
                     punk.GetComponent<AudioSource>().Play();
                     Destroy(gameObject);
                     break;    

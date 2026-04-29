@@ -6,18 +6,14 @@ public class UIScripts : MonoBehaviour
 {
     public Image healthFill;
     public Image gameOver;
-
     public Image digit1;
     public Image digit2;
     public Image digit3;
-    
-    
+    public Image win;
+    public PunkScript punk;    
     public Sprite[] digitsScore;
 
-
     Animator gameAnim;
-
-
     
     public void DamageHealth(float currentHealth,float maxHealth)
     {
@@ -34,23 +30,22 @@ public class UIScripts : MonoBehaviour
     public void UpdateScore(float currentScore)
     {
         int score = (int)currentScore;
+        int tempScore = score;
 
-        int unitsIndex = score % 10;
+        digit3.sprite = digitsScore[tempScore % 10];
+        tempScore /= 10;
 
-        digit3.sprite = digitsScore[unitsIndex];
+        digit2.sprite = digitsScore[tempScore % 10];
+        tempScore /= 10;
 
-        score /= 10;
+     
+        digit1.sprite = digitsScore[tempScore % 10];
 
-        int tensIndex = score % 10;
-
-        digit2.sprite = digitsScore[tensIndex];
-
-        score /= 10;
-
-        int hundrIndex = score % 10;
-
-        digit1.sprite = digitsScore[hundrIndex];
-
-        score /= 10;
+        if (score >= 100)
+        {
+            
+            punk.animPunk.SetBool("Dance",true);
+            win.GetComponent<Animator>().SetTrigger("Win");
+        }
     }
 }
