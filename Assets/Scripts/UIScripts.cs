@@ -12,7 +12,7 @@ public class UIScripts : MonoBehaviour
     public Image win;
     public PunkScript punk;    
     public Sprite[] digitsScore;
-
+    private float totalScore = 0f;
     Animator gameAnim;
     
     public void DamageHealth(float currentHealth,float maxHealth)
@@ -29,7 +29,8 @@ public class UIScripts : MonoBehaviour
 
     public void UpdateScore(float currentScore)
     {
-        int score = (int)currentScore;
+        totalScore += currentScore;
+        int score = (int)totalScore;
         int tempScore = score;
 
         digit3.sprite = digitsScore[tempScore % 10];
@@ -41,7 +42,7 @@ public class UIScripts : MonoBehaviour
      
         digit1.sprite = digitsScore[tempScore % 10];
 
-        if (score >= 100)
+        if (totalScore >= 100)
         {
             
             punk.animPunk.SetBool("Dance",true);

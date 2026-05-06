@@ -133,7 +133,7 @@ public class PunkScript : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
         {
             animPunk.SetTrigger("Punch");
-            scHit += 10;
+            
             
         }    
     }

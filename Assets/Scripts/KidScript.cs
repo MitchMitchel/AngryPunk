@@ -16,6 +16,7 @@ public class KidScript : MonoBehaviour
 
     public float stopDistance = 0.5f; 
     public float speed = 3f;
+    bool iUsed = false;
     void Start()
     {
         kidAnim = GetComponent<Animator>();
@@ -34,15 +35,18 @@ public class KidScript : MonoBehaviour
     {
         PunchKid();
     }
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerStay2D(Collider2D other  )
     {
-        if (other.CompareTag("HitPunch"))
+        if (other.CompareTag("HitPunch") && !iUsed)
         {
+            iUsed = true;
             hitCount--;
-            ui.UpdateScore(punk.scHit);
+            ui.UpdateScore(10);
             audio.PlayOneShot(hitClip);
             kidAnim.SetTrigger("HitKid");
             punchEffect.Play();
+
+            Invoke("ResetHit", 0.5f);
         }
         if (hitCount == 0f)
         {
@@ -88,5 +92,9 @@ public class KidScript : MonoBehaviour
             
             kidAnim.SetTrigger("PunchKid");
         }
+    }
+    void ResetHit()
+    {
+        iUsed = false;
     }
 }

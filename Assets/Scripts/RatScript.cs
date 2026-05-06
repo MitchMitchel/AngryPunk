@@ -7,7 +7,7 @@ public class RatScript : MonoBehaviour
 {
     Animator ratAnim;
     Rigidbody2D rb;
-    public Image health;
+    public Slider health;
     public GameObject healthBar;
     public ParticleSystem punchEffect;
     public Transform targetPosition;
@@ -17,6 +17,8 @@ public class RatScript : MonoBehaviour
     AudioSource audio;
     public AudioClip hitClip;
     float maxHealth = 100f;
+    float currentHealth;
+    public float amount = 30f;
     public float hitCount = 3f;
     public float stopDistance = 0.5f; 
     public float speed = 3f;
@@ -28,6 +30,9 @@ public class RatScript : MonoBehaviour
 
     void Start()
     {
+        currentHealth = maxHealth;
+        health.maxValue = maxHealth; 
+        health.value = currentHealth;
         ratAnim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         audio = GetComponent<AudioSource>();
@@ -44,6 +49,14 @@ public class RatScript : MonoBehaviour
     private void Update()
     {
         PunchRat();
+    }
+    public void HealthRat(ref float currentHealth, float maxHealth, float ammount)
+    {
+        
+        if (currentHealth <= 0 && ammount < 0) return;
+        currentHealth += ammount;
+        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+        health.value = currentHealth;
     }
 
     void MoveOnScene()
@@ -98,7 +111,7 @@ public class RatScript : MonoBehaviour
         if (other.CompareTag("HitPunch") && !isUsed)
         {
             isUsed = true;
-            hitCount--;
+            HealthRat(ref currentHealth,100f,- 30f);
             ui.UpdateScore(10);
             audio.PlayOneShot(hitClip);
             ratAnim.SetTrigger("HitRat");
@@ -107,7 +120,7 @@ public class RatScript : MonoBehaviour
             Invoke("ResetHit", 0.5f);
         }
 
-        if (hitCount <= 0f)
+        if (currentHealth <= 0f)
         {
             ratAnim.SetTrigger("DeathRat");
             rb.simulated = false; 
